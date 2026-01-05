@@ -1,30 +1,36 @@
 # Edzőtermi Webes Alkalmazás
 
 ## Tartalomjegyzék
-1. [Projekt célja](#projekt-célja)
-2. [Fő funkciók](#fő-funkciók)
-3. [Saját feladataim](#saját-feladataim)
-4. [Alkalmazott technológiák](#alkalmazott-technológiák)
-5. [Összegzés](#összegzés)
+- [Projekt célja](#projekt-célja)
+- [Fő funkciók](#fő-funkciók)
+- [Saját feladataim](#saját-feladataim)
+- [Alkalmazott technológiák](#alkalmazott-technológiák)
+- [Összegzés](#összegzés)
 
 ---
 
-## Projekt célja
+<details>
+<summary><strong>Projekt célja</strong></summary>
+
 A projekt célja egy edzőtermi webes alkalmazás elkészítése, amely támogatja az edzőterem mindennapi működését.  
 Az alkalmazás lehetőséget biztosít a felhasználók adatainak kezelésére, bérletek nyilvántartására, valamint az edzéssel kapcsolatos információk rendszerezésére.
 
----
+</details>
 
-## Fő funkciók
+<details>
+<summary><strong>Fő funkciók</strong></summary>
+
 - **Felhasználók regisztrációja és bejelentkezése**  
 - **Bérletek kezelése és nyilvántartása**  
 - **Edzéstervek adatainak tárolása**  
 - **Adminisztrációs funkciók biztosítása**  
 - **Adatok biztonságos kezelése**
 
----
+</details>
 
-## Saját feladataim
+<details>
+<summary><strong>Saját feladataim</strong></summary>
+
 A projekt megvalósítása során az **adatbázis és a backend fejlesztéséért** felelek.  
 Feladataim a következők:
 
@@ -35,15 +41,21 @@ Feladataim a következők:
 5. Kapcsolat biztosítása az **adatbázis és a frontend** között  
 6. **Alapvető biztonsági megoldások** alkalmazása (pl. jogosultságkezelés)
 
----
+</details>
 
-## Alkalmazott technológiák
+<details>
+<summary><strong>Alkalmazott technológiák</strong></summary>
+
 - **Adatbázis-kezelő rendszer:** relációs adatbázis  
 - **Backend:** szerveroldali alkalmazás  
 - **Frontend:** külön fejlesztési feladat
 
----
+</details>
 
-## Összegzés
+<details>
+<summary><strong>Összegzés</strong></summary>
+
 A projekt során célom egy **jól strukturált, megbízható backend rendszer** létrehozása volt, amely megfelelő alapot biztosít az edzőtermi webes alkalmazás működéséhez.  
 A megvalósítás során különös figyelmet fordítottam az **adatbiztonságra** és a **rendszer bővíthetőségére**.
+
+</details>
