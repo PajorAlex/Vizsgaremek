@@ -1,44 +1,40 @@
-Edzőtermi webes alkalmazás – Projekt dokumentáció
-1. A projekt célja
+# Edzőtermi Webes Alkalmazás
 
-A projekt célja egy edzőtermi webes alkalmazás elkészítése, amely támogatja egy edzőterem mindennapi működését. Az alkalmazás lehetőséget biztosít a felhasználók adatainak kezelésére, bérletek nyilvántartására, valamint az edzéssel kapcsolatos információk rendszerezésére.
+## Projekt célja
+A projekt célja egy edzőtermi webes alkalmazás elkészítése, amely támogatja az edzőterem mindennapi működését.  
+Az alkalmazás lehetőséget biztosít a felhasználók adatainak kezelésére, bérletek nyilvántartására, valamint az edzéssel kapcsolatos információk rendszerezésére.
 
-2. Az alkalmazás fő funkciói
+---
 
-Felhasználók regisztrációja és bejelentkezése
+## Fő funkciók
+- **Felhasználók regisztrációja és bejelentkezése**  
+- **Bérletek kezelése és nyilvántartása**  
+- **Edzéstervek adatainak tárolása**  
+- **Adminisztrációs funkciók biztosítása**  
+- **Adatok biztonságos kezelése**
 
-Bérletek kezelése és nyilvántartása
+---
 
-Edzéstervek adatainak tárolása
+## Saját feladataim a projektben
+A projekt megvalósítása során az **adatbázis és a backend fejlesztéséért** felelek.  
+Feladataim a következők:
 
-Adminisztrációs funkciók biztosítása
+1. Az adatbázis **logikai és fizikai megtervezése**  
+2. **Táblák és kapcsolatok** kialakítása  
+3. Az adatbázis **feltöltése és kezelése**  
+4. **Backend funkciók fejlesztése**  
+5. Kapcsolat biztosítása az **adatbázis és a frontend** között  
+6. **Alapvető biztonsági megoldások** alkalmazása (pl. jogosultságkezelés)
 
-Adatok biztonságos kezelése
+---
 
-3. Saját feladataim a projektben
+## Alkalmazott technológiák
+- **Adatbázis-kezelő rendszer:** relációs adatbázis  
+- **Backend:** szerveroldali alkalmazás  
+- **Frontend:** külön fejlesztési feladat
 
-A projekt megvalósítása során az adatbázis és a backend fejlesztéséért felelek. Feladataim a következők:
+---
 
-Az adatbázis logikai és fizikai megtervezése
-
-Táblák és kapcsolatok kialakítása
-
-Az adatbázis feltöltése és kezelése
-
-Backend funkciók fejlesztése
-
-Kapcsolat biztosítása az adatbázis és a frontend között
-
-Alapvető biztonsági megoldások alkalmazása (pl. jogosultságkezelés)
-
-4. Alkalmazott technológiák
-
-Adatbázis-kezelő rendszer: relációs adatbázis
-
-Backend: szerveroldali alkalmazás
-
-Frontend: külön fejlesztési feladat
-
-5. Összegzés
-
-A projekt során célom egy jól strukturált, megbízható backend rendszer létrehozása volt, amely megfelelő alapot biztosít az edzőtermi webes alkalmazás működéséhez. A megvalósítás során figyelmet fordítottam az adatbiztonságra és a rendszer bővíthetőségére.
+## Összegzés
+A projekt során célom egy **jól strukturált, megbízható backend rendszer** létrehozása volt, amely megfelelő alapot biztosít az edzőtermi webes alkalmazás működéséhez.  
+A megvalósítás során különös figyelmet fordítottam az **adatbiztonságra** és a **rendszer bővíthetőségére**.
